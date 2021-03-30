@@ -27,15 +27,15 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 
-#para criar o proejeto
+#para criar o projeto <br>
 ng new agendalive
 
-#importar angular material
+#importar angular material<br> 
 ng add @angular/material
 
-#executar o projeto
+#executar o projeto<br>
 ng serve
 
-#criar o compomente home 
-ng generate compoment views/home
+#criar o compomente home<br> 
+ng generate compoment views/home<br>
 ng g c views/home
